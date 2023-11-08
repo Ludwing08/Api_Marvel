@@ -25,10 +25,11 @@ La **Marvel App** es una aplicación móvil que te permite explorar el vasto uni
 
 1. Clona este repositorio en tu máquina local.
    ```bash
-   git clone https://github.com/tu-usuario/marvel-app.git
+   git clone https://github.com/Ludwing08/Api_Marvel.git
+   
 2. Configura tus claves de API de Marvel siguiendo las instrucciones en 
    ```bash
-   lib/config/api_config.dart
+   lib/src/services/api_marvel.dart
 
 3. Asegúrate de tener las dependencias instaladas mediante.
 
